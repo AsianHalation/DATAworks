@@ -15,7 +15,7 @@
             <ul>
                 <li><a href="">Home</a></li>
                 <li><a href="">Aanbod</a></li>
-                <li><a href="">MyDrive</a></li>
+                <li><a href="registration.php">MyDrive</a></li>
                 <li><a href="#footer">Contact</a></li>
             </ul>
 
