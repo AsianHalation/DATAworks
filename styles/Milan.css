@@ -56,7 +56,10 @@ input {
 
 #body {
     flex: 1; /* This will make the body take up the available space */
+    display: flex;
     width: 100%;
+    justify-content: center;
+    
 }
 
 #footer {

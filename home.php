@@ -49,6 +49,9 @@
 
     </div>
 
+    <button class="btn" id="btn-next">&#10596;</button>
+    <button class="btn" id="btn-prev">&#10594;</button> 
+
     <script src="js/home.js"></script>
 </body>
 </html>
