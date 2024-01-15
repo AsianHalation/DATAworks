@@ -9,42 +9,50 @@
 </head>
 
 <body>
-    <div id="flex-container">  
+    <div id="container">
+    <div id="header">
     <header>
         <nav>
             <audio src="auto.mp3"></audio>
             <button id="musicbtn"><i class="music-on"></i></button>
             <ul>
-                <li><a href="home.html">Home</li>
+                <li><a href="">Home</li>
                 <li><a href="">Aanbod</li>
                 <li><a href="">MyDrive</li>
                 <li><a href="#footer">Contact</li>
             </ul>
         </nav>
     </header>
+    </div>
 
+    <div id="body">
     <main>
         <div class="slider">
             <div class="slide">
-                <img src="honda.jpg"/>
+                <img src="img/honda.jpg"/>
             </div>
     
             <div class="slide">
-                <img src="toyota.png"/>
+                <img src="img/toyota.png"/>
             </div>
     
             <div class="slide">
-                <img src="mitsu.png"/>
+                <img src="img/mitsu.png"/>
             </div>
         </div>
     </main>
-
-    <footer id="footer">
-        <p>1234BV</p><br>
-        <p>supaidastraat 1</p><br>
-        <p>Vianen</p>
-    </footer>
     </div>
+
+    <div id="footer">
+        <footer>
+            <p>1234BV</p><br>
+            <p>supaidastraat 1</p><br>
+            <p>Vianen</p>
+        </footer>
+    </div>
+
+    </div>
+
     <script src="js/home.js"></script>
 </body>
 </html>
