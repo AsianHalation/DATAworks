@@ -5,9 +5,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>JDM Premium Verhuur</title>
     <link rel="stylesheet" href="styles/Don.css">
+    <link rel="stylesheet" href="styles/Milan.css">
 </head>
 
 <body>
+    <div id="flex-container">  
     <header>
         <nav>
             <audio src="auto.mp3"></audio>
@@ -37,11 +39,12 @@
         </div>
     </main>
 
-    <footer>
+    <footer id="footer">
         <p>1234BV</p><br>
         <p>supaidastraat 1</p><br>
         <p>Vianen</p>
     </footer>
-    <script src="home.js"></script>
+    </div>
+    <script src="js/home.js"></script>
 </body>
 </html>
