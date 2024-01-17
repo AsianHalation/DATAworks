@@ -38,6 +38,9 @@
         </div>
     </div>
 
+    <button class="btn" id="btn-next">&#10596;</button>
+    <button class="btn" id="btn-prev">&#10594;</button>
+
 
         <footer id="footer">
             <p>postcode: 1234 BV</p><br>
