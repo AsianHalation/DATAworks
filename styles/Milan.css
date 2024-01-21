@@ -63,7 +63,7 @@ input {
 }
 
 #footer {
-    margin-top: auto; /* Push the footer to the bottom */
+    margin-top: auto;
     display: flex;
     justify-content: space-evenly;
 }
